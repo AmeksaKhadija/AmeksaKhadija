@@ -1,6 +1,3 @@
-# Reprise propre : recréation sans erreurs de bloc markdown mal échappé
-
-readme_content = """
 <h1 align="center">Salut 👋, je suis Khadija Ameksa</h1>
 <h3 align="center">💻 Développeuse Web Full Stack | Passionnée par Laravel, Vue.js et les belles interfaces</h3>
 
