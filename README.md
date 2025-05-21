@@ -22,26 +22,11 @@
 ## 🛠️ Stack Technique
 
 **Langages** : PHP • JavaScript • TypeScript • HTML5 • CSS3 • SQL • C  
-**Frameworks** : Laravel • Vue.js • Bootstrap • TailwindCSS • SASS  
+**Frameworks** : Laravel • Vue.js • Bootstrap • TailwindCSS • SASS • React Native  
 **Base de données** : MySQL • PostgreSQL  
 **Outils Dev** : Git & GitHub • Docker • Postman • Trello • Notion • Jira  
 **Design UI** : Figma • Canva  
 **Méthodologies** : SCRUM • Agile • UML • Merise  
-
----
-
-## 🚀 Projets récents
-
-- 🛒 **YouChoix** – E-commerce de meubles :  
-  _PHP, Laravel, Bootstrap, JS_  
-  🔗 [Voir sur GitHub](https://github.com/AmeksaKhadija/YouChoix-FilRouge)
-
-- 💬 **SmilHub** – Réseau social pour les apprenants :  
-  _Laravel, WebSockets, AJAX_  
-  🔗 [Voir sur GitHub](https://github.com/AmeksaKhadija/SmilHub)
-
-- 📱 **YouConnecte** – Application de communication interne :  
-  _Laravel, Bootstrap, JS_
 
 ---
 
@@ -50,7 +35,7 @@
 - 🎓 **YouCode - UM6P** (2024 - Aujourd'hui)  
   _Développement Web Full Stack_
 
-- 🎓 **Lycée Technique Ibn El Haitham** (2022 - 2023)  
+- 🎓 **Lycée Technique Ibn El Haitham** (2020 - 2023)  
   _Baccalauréat Techniques_
 
 ---
@@ -85,18 +70,3 @@
     <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-
----
-
-<p align="center"><b>"Créer du code utile, propre et humain 💡"</b></p>
-"""
-
-# Write to README.md and zip
-readme_path = Path("/mnt/data/README.md")
-readme_path.write_text(readme_content, encoding='utf-8')
-
-zip_path = "/mnt/data/khadija-github-readme.zip"
-with ZipFile(zip_path, 'w') as zipf:
-    zipf.write(readme_path, arcname="README.md")
-
-zip_path  # Path to download the zip
