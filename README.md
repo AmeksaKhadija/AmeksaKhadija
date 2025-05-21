@@ -1,119 +1,105 @@
-<div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" />
-</div>
+# Reprise propre : recréation sans erreurs de bloc markdown mal échappé
 
-###
+readme_content = """
+<h1 align="center">Salut 👋, je suis Khadija Ameksa</h1>
+<h3 align="center">💻 Développeuse Web Full Stack | Passionnée par Laravel, Vue.js et les belles interfaces</h3>
 
-<h1 align="center">Hey there 👋, I'm Khadija Ameksa</h1>
-
-###
-
-<h3 align="left">👩‍💻 About Me</h3>
-
-###
-
-<p align="left">
-Je suis une développeuse Full Stack passionnée par le développement d'applications web modernes, performantes et utiles. <br><br>
-- 🚀 Actuellement en formation de développement Full Stack à YouCode - UM6P<br>
-- 💼 J’ai effectué un stage chez BrosMedia où j’ai développé une plateforme de gestion pour un centre de nutrition et de sport<br>
-- 🌱 J’apprends continuellement : Laravel, Vue.js, Tailwind CSS, etc.<br>
-- 💡 J’adore créer des projets personnels pour améliorer mes compétences<br>
-- 🎯 Mon objectif : construire des solutions digitales qui ont un impact positif<br>
+<p align="center">
+  <a href="https://github.com/AmeksaKhadija"><img src="https://img.shields.io/github/followers/AmeksaKhadija?label=GitHub&style=social" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/khadija-ameksa-7539762a0/"><img src="https://img.shields.io/badge/LinkedIn-Khadija%20Ameksa-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:ameksakhadija026@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-red?style=flat&logo=gmail" alt="Email" /></a>
 </p>
 
-###
+---
 
-<h3 align="left">📧 Connect With Me</h3>
+## 👩‍💻 À propos de moi
 
-###
+- 🎓 Étudiante à **YouCode - UM6P**, en développement web full stack  
+- 🧠 Passionnée par les technologies **Laravel**, **Vue.js**, et les outils modernes  
+- 🌱 Actuellement, je renforce mes compétences en **architecture MVC**, **REST API**, et **Docker**  
+- 💬 J’adore apprendre, résoudre des problèmes, et collaborer en équipe  
+- 🎯 Mon objectif : construire des solutions digitales qui ont un impact positif<br>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/khadija-ameksa-7539762a0/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/AmeksaKhadija" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="mailto:ameksakhadija026@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" />
-  </a>
-</div>
+---
 
-###
+## 🛠️ Stack Technique
 
-<br clear="both">
+**Langages** : PHP • JavaScript • TypeScript • HTML5 • CSS3 • SQL • C  
+**Frameworks** : Laravel • Vue.js • Bootstrap • TailwindCSS • SASS  
+**Base de données** : MySQL • PostgreSQL  
+**Outils Dev** : Git & GitHub • Docker • Postman • Trello • Notion • Jira  
+**Design UI** : Figma • Canva  
+**Méthodologies** : SCRUM • Agile • UML • Merise  
 
-###
+---
 
-<h3 align="left">🛠️ My Tech Stack</h3>
+## 🚀 Projets récents
 
-###
+- 🛒 **YouChoix** – E-commerce de meubles :  
+  _PHP, Laravel, Bootstrap, JS_  
+  🔗 [Voir sur GitHub](https://github.com/AmeksaKhadija/YouChoix-FilRouge)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-</div>
+- 💬 **SmilHub** – Réseau social pour les apprenants :  
+  _Laravel, WebSockets, AJAX_  
+  🔗 [Voir sur GitHub](https://github.com/AmeksaKhadija/SmilHub)
 
-###
+- 📱 **YouConnecte** – Application de communication interne :  
+  _Laravel, Bootstrap, JS_
 
-<h3 align="left">🔥 My GitHub Stats</h3>
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmeksaKhadija&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeksaKhadija&layout=compact&theme=radical" height="150" alt="Top Languages" />
-</div>
+## 🎓 Formation
 
-###
+- 🎓 **YouCode - UM6P** (2024 - Aujourd'hui)  
+  _Développement Web Full Stack_
 
-<h3 align="left">🌱 Projects</h3>
+- 🎓 **Lycée Technique Ibn El Haitham** (2022 - 2023)  
+  _Baccalauréat Techniques_
 
-<ul>
-  <li><a href="https://github.com/AmeksaKhadija/YouChoix-FilRouge"><b>YouChoix</b></a> – Site e-commerce de meubles d’intérieur (Laravel, PHP, Bootstrap)</li>
-  <li><a href="https://github.com/AmeksaKhadija/SmilHub"><b>SmilHub</b></a> – Réseau social interne avec WebSockets & AJAX</li>
-  <li><b>YouConnecte</b> – Application pour la gestion de communauté apprenante (Laravel)</li>
-</ul>
+---
 
-###
+## 🌍 Langues parlées
 
-<h3 align="left">🎓 Education</h3>
-
-- **2024 – présent** : Développement Web Full Stack @ YouCode - UM6P  
-- **2022 – 2023** : Baccalauréat Technique @ Lycée Technique Ibn El Haitham  
-
-###
-
-<h3 align="left">🌍 Languages</h3>
-
-- 🇲🇦 Arabe : Langue maternelle  
-- ⵜⴰⵎⴰⵣⵉⵖⵜ Tamazight : Langue maternelle  
+- 🇲🇦 Arabe & Tamazight : Natif  
 - 🇫🇷 Français : Niveau A2  
 - 🇬🇧 Anglais : Notions de base  
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmeksaKhadija&color=blueviolet" alt="Profile views counter" />
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
-  💻 <b>"Code with passion, build with purpose"</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmeksaKhadija&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeksaKhadija&layout=compact&theme=tokyonight" height="150" />
 </div>
+
+---
+
+## 🙌 Let's Connect
+
+<div align="center">
+  <a href="mailto:ameksakhadija026@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/khadija-ameksa-7539762a0/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AmeksaKhadija">
+    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<p align="center"><b>"Créer du code utile, propre et humain 💡"</b></p>
+"""
+
+# Write to README.md and zip
+readme_path = Path("/mnt/data/README.md")
+readme_path.write_text(readme_content, encoding='utf-8')
+
+zip_path = "/mnt/data/khadija-github-readme.zip"
+with ZipFile(zip_path, 'w') as zipf:
+    zipf.write(readme_path, arcname="README.md")
+
+zip_path  # Path to download the zip
