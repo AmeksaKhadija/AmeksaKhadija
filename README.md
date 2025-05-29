@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/khadija-ameksa-7539762a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khadija-ameksa-7539762a0/" height="30" width="40" /></a>
-<a href="[https://fb.com/ameksa khadija](https://www.facebook.com/share/1LNgGpE4Ws/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ameksa khadija" height="30" width="40" /></a>
+<a href="https://fb.com/Ameksa khadija" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ameksa khadija" height="30" width="40" /></a>
 <a href="https://instagram.com/ameksa_khadija" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ameksa khadija" height="30" width="40" /></a>
 </p>
 
