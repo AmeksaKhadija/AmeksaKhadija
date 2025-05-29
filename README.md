@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameksakhadija" alt="ameksakhadija" /></a> </p>
 
-- 🔭 I’m currently working on [Fitness App – Application mobile sport & bien-être](https://github.com/TaouilSoufiane/fitness-front)
+- 🔭 I’m currently working on : [Fitness App – Application mobile sport & bien-être](https://github.com/TaouilSoufiane/fitness-front)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning : **Java**
 
-- 👯 I’m looking to collaborate on **Any project related to my tech stack (Laravel, Vue.js, React Native, etc.)**
+- 👯 I’m looking to collaborate on : **Any project related to my tech stack (Laravel, Vue.js, React Native, etc.)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AmeksaKhadija](https://github.com/AmeksaKhadija)
+- 👨‍💻 All of my projects are available at : [https://github.com/AmeksaKhadija](https://github.com/AmeksaKhadija)
 
-- 💬 Ask me about **Laravel, PHP, Vue.js, TailwindCSS, GitHub, UML**
+- 💬 Ask me about : **Laravel, PHP, Vue.js, TailwindCSS, GitHub, UML**
 
-- 📫 How to reach me **ameksakhadija026@gmail.com**
+- 📫 How to reach me : **ameksakhadija026@gmail.com**
 
-- 📄 Know about my experiences [[📄 Download my CV](https://github.com/AmeksaKhadija/AmeksaKhadija/blob/main/CV-AmeksaKhadija.pdf)]([📄 Download my CV](https://github.com/AmeksaKhadija/AmeksaKhadija/blob/main/CV-AmeksaKhadija.pdf))
+- 📄 Know about my experiences : ([📄 Download my CV](https://github.com/AmeksaKhadija/AmeksaKhadija/blob/main/CV-AmeksaKhadija.pdf))
 
-- ⚡ Fun fact **Sometimes I talk to my code... and yes, it answers (with bugs)**
+- ⚡ Fun fact : **Sometimes I talk to my code... and yes, it answers (with bugs)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
