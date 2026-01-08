@@ -42,9 +42,15 @@
 <h2 align="center">⚒️ Technologies & Outils ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,laravel" /><br/>
-    <img src="https://skillicons.dev/icons?i=vue,react,tailwind,bootstrap,sass" /><br/>
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,docker,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,c,python" /><br/>
+    <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,vue,react,tailwind,bootstrap,sass" /><br/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,git,docker" /><br/>
+    <img src="https://skillicons.dev/icons?i=postman,figma,wordpress,jest,notion" />
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+    <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+    <img src="https://img.shields.io/badge/Web_Scraping-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 </div>
 
 <br/>
